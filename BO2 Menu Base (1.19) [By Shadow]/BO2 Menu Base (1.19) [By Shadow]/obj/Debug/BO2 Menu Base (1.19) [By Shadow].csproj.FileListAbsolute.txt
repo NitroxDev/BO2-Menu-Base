@@ -1,0 +1,10 @@
+C:\Users\david\Documents\Visual Studio 2015\Projets\BO2 Menu Base (1.19) [By Shadow]\BO2 Menu Base (1.19) [By Shadow]\bin\Debug\BO2 Menu Base (1.19) [By Shadow].exe.config
+C:\Users\david\Documents\Visual Studio 2015\Projets\BO2 Menu Base (1.19) [By Shadow]\BO2 Menu Base (1.19) [By Shadow]\bin\Debug\BO2 Menu Base (1.19) [By Shadow].exe
+C:\Users\david\Documents\Visual Studio 2015\Projets\BO2 Menu Base (1.19) [By Shadow]\BO2 Menu Base (1.19) [By Shadow]\bin\Debug\BO2 Menu Base (1.19) [By Shadow].pdb
+C:\Users\david\Documents\Visual Studio 2015\Projets\BO2 Menu Base (1.19) [By Shadow]\BO2 Menu Base (1.19) [By Shadow]\obj\Debug\BO2 Menu Base (1.19) [By Shadow].csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\Visual Studio 2015\Projets\BO2 Menu Base (1.19) [By Shadow]\BO2 Menu Base (1.19) [By Shadow]\obj\Debug\BO2_Menu_Base__1._19___By_Shadow_.Form1.resources
+C:\Users\david\Documents\Visual Studio 2015\Projets\BO2 Menu Base (1.19) [By Shadow]\BO2 Menu Base (1.19) [By Shadow]\obj\Debug\BO2_Menu_Base__1._19___By_Shadow_.Properties.Resources.resources
+C:\Users\david\Documents\Visual Studio 2015\Projets\BO2 Menu Base (1.19) [By Shadow]\BO2 Menu Base (1.19) [By Shadow]\obj\Debug\BO2 Menu Base (1.19) [By Shadow].csproj.GenerateResource.Cache
+C:\Users\david\Documents\Visual Studio 2015\Projets\BO2 Menu Base (1.19) [By Shadow]\BO2 Menu Base (1.19) [By Shadow]\obj\Debug\BO2 Menu Base (1.19) [By Shadow].exe
+C:\Users\david\Documents\Visual Studio 2015\Projets\BO2 Menu Base (1.19) [By Shadow]\BO2 Menu Base (1.19) [By Shadow]\obj\Debug\BO2 Menu Base (1.19) [By Shadow].pdb
+C:\Users\david\Documents\Visual Studio 2015\Projets\BO2 Menu Base (1.19) [By Shadow]\BO2 Menu Base (1.19) [By Shadow]\bin\Debug\PS3Lib.dll
